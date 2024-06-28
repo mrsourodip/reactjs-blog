@@ -1,0 +1,15 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f3f4f6; /* Lighter background color */
+  padding: 1rem;
+  border-top: 1px solid #ddd; /* Separator line */
+}
+
+@media (min-height: 100vh) {
+  footer {
+    position: absolute;
+    bottom: 0;
+  }
+}

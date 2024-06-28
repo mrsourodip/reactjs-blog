@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "e718bc65-cb4c-46bf-8d72-ad36725256dc",
+      "username": "Sourodip_Kundu",
+      "password": "$2a$10$SCVoj6j49NCMd5f30VG5c.lZJhxkavLZK.rac3UXaRymXfofhJia.",
+      "firstName": "Sourodip",
+      "lastName": "Kundu",
+      "age": "26"
+    },
+    {
+      "id": "76d71994-9c72-4f3c-9f0c-33141aeeade2",
+      "username": "Mohit_Jaiswal",
+      "password": "$2a$10$Z6midAtk/crEOc40Lb7E7.iAQF0/FjIH/wOdGfTy2IrKm5dV6fq.C",
+      "firstName": "Mohit",
+      "lastName": "Jaiswal",
+      "age": "24"
+    },
+    {
+      "id": "c7c3e4d9-2746-45a2-bc61-d983e40a39ed",
+      "username": "James_Bond",
+      "password": "$2a$10$p4T4jUtm7P.cvUbULRpnDe46vjVylBtORRWdNWJAZsO/SGKNBCr3a",
+      "firstName": "James",
+      "lastName": "Bond",
+      "age": "45"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Second Blog",
+      "content": "Second Blog edit!!!!ss",
+      "authoredBy": "Mohit_Jaiswal",
+      "id": "6d8d0ee0-6992-4298-9c43-be0519b647a1"
+    },
+    {
+      "id": "59e4aed6-e327-4405-9af2-1c68e615f54d",
+      "title": "Bleh",
+      "content": "Blehhh",
+      "authoredBy": "James_Bond"
+    },
+    {
+      "id": "df2d40c0-905b-4050-b31d-ab7048aaef8b",
+      "title": "Hula",
+      "content": "HulaaHulaa",
+      "authoredBy": "James_Bond"
+    },
+    {
+      "id": "83fdbb91-3ab1-42a5-a5d1-2c9eba780662",
+      "title": "First Blog",
+      "content": "Testing!!!",
+      "authoredBy": "Mohit_Jaiswal"
+    }
+  ]
+}
